@@ -10,41 +10,19 @@ After systemd?
 
 ## Problems to solve
 [[!inline pages="problems-to-solve-linux-only" raw=yes]]
+[[!inline pages="problems-to-solve-chroot-nontrivial" raw=yes]]
 
-We anticipate that systemd is currently in fashion, however many of
-us have seen software rising and falling, especially if it was 
-ill designed (sendmail anyone?).
+## Pros and Cons
+Let's have a look what systemd actually makes better and what
+are the problems that are new due to having systemd.
 
-In that sense we are planning for the time when distros and users
-are beginning to **migrate away from systemd**.
+Again, this is not a rant-or-blame page, but focussed on
+analysis and to make the basis for future steps.
 
-## What this site is about
+If you do not agree with something written here, please
+update this website.
 
-We are beginning to write down our concerns about systemd,
-what are the good and bad things it brings and how to move
-on.
+[[!inline pages="pros-and-cons-unifying-linux" raw=yes]]
 
-We focus on being productive for the next generation of people using
-Linux and other Unices (yes, they exist and yes, they are important, too!).
-
-## What is this site not about
-
-It is not a place for ranting. 
-If you want to blame/rant, please look for another site.
-
-
-## I want to contribute!
-
-That's great. You can find us on 
-[#cstar on Freenode](irc://irc.freenode.net/#cstar).
-
-If you want to change this site, simply 
-[clone the repositiry on github](https://github.com/ungleich/the-world-after-systemd) and open a pull request.
-
-This site uses markdown as interpreted by
-[ikiwiki](http://ikiwiki.info/).
-
-
-[[!inline pages="pros-and-cons" raw=yes]]
 [[!inline pages="resources" raw=yes]]
 [[!inline pages="contribute" raw=yes]]

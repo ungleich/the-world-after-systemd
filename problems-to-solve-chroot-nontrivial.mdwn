@@ -1,0 +1,13 @@
+### Starting Services in chroots (technical)
+
+When you run an init system like systemd that requires a helper
+program to start services (**systemctl**), it is not easily 
+possible to start services in a chroot, because the chrooted
+systemctl cannot connect to the outer systemd.
+
+Using init scripts or a different type of cli that does not require
+another daemon to run (like sysvinit does with the shell scripts
+below /etc/{rc.d,init.d}), solves this problem.
+
+So in short, running services in a chrooted environment became
+harder with systemd.

@@ -31,6 +31,7 @@ Linux and other Unices (yes, they exist and yes, they are important, too!).
 It is not a place for ranting. 
 If you want to blame/rant, please look for another site.
 
+
 ## I want to contribute!
 
 That's great. You can find us on 
@@ -38,3 +39,6 @@ That's great. You can find us on
 
 If you want to change this site, simply 
 [clone the repositiry on github](https://github.com/ungleich/the-world-after-systemd) and open a pull request.
+
+This site uses markdown as interpreted by
+[ikiwiki](http://ikiwiki.info/).

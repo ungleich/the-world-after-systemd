@@ -1,0 +1,13 @@
+### Linux only orientation
+
+The current implementation of systemd is highly Linux centric, 
+which is a major problem if other software that is being used on other
+Unices begins to depend on components of systemd.
+
+At this point of point we know about
+[gnome depending on systemd](https://lists.debian.org/debian-devel/2013/10/msg00578.html), 
+which makes gnome unavailable for any other
+operating systems than Linux.
+
+Furthermore, writing portable applications has the advantage of finding
+bugs in your software.

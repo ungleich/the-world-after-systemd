@@ -6,5 +6,9 @@ After systemd?
 
 [[!inline pages="why-after" raw=yes]]
 [[!inline pages="this-site" raw=yes]]
+
+## Problems to solve
+[[!inline pages="problems-to-solve-linux-only" raw=yes]]
+
 [[!inline pages="resources" raw=yes]]
 [[!inline pages="contribute" raw=yes]]

@@ -1,0 +1,13 @@
+## What this site is about
+
+We are beginning to write down our concerns about systemd,
+what are the good and bad things it brings and how to move
+on.
+
+We focus on being productive for the next generation of people using
+Linux and other Unices (yes, they exist and yes, they are important, too!).
+
+## What is this site not about
+
+It is not a place for ranting. 
+If you want to blame/rant, please look for another site.

@@ -5,5 +5,5 @@ many distributions adopt it. If you dislike systemd (for whatever reason)
 this may be a disadvantage. However, having the same 
 **init system** on all Unices would make life much easier
 for sysadmins and authors of configuration management 
-systems (like [cdist](http://www.nico.schottelius.org/software/cdist/).
+systems (like [cdist](http://www.nico.schottelius.org/software/cdist/)).
 

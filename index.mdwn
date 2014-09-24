@@ -53,3 +53,14 @@ This site uses markdown as interpreted by
 * http://www.pro-linux.de/news/1/21537/uselessd-erste-abspaltung-von-systemd.html
 * http://users.unixforge.de/~tglaser/debs/debidx.htm
 * http://the-world-after-systemd.ungleich.ch/
+
+## Practical steps
+
+* Gather information
+* Summarise
+* Write a clear statement of the problems and publish that too
+
+Iterate:
+
+* Consider solutions and work towards them
+* Contact other concerned parties informing them of these efforts, finding out their efforts

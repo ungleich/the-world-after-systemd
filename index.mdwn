@@ -10,5 +10,6 @@ After systemd?
 ## Problems to solve
 [[!inline pages="problems-to-solve-linux-only" raw=yes]]
 
+[[!inline pages="pros-and-cons" raw=yes]]
 [[!inline pages="resources" raw=yes]]
 [[!inline pages="contribute" raw=yes]]

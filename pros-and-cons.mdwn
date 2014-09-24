@@ -9,7 +9,7 @@ analysis and to make the basis for future steps.
 If you do not agree with something written here, please
 update the website as stated on the [[index]] page.
 
-### Unifying Distributions
+### Unifying Distributions (political/technical)
 
 One interesting outcome of the development around systemd is that
 many distributions adopt it. If you dislike systemd (for whatever reason)
@@ -19,3 +19,16 @@ for sysadmins and authors of configuration management
 systems (like [cdist](http://www.nico.schottelius.org/software/cdist/).
 
 
+### Starting Services in chroots (technical)
+
+When you run an init system like systemd that requires a helper
+program to start services (**systemctl**), it is not easily 
+possible to start services in a chroot, because the chrooted
+systemctl cannot connect to the outer systemd.
+
+Using init scripts or a different type of cli that does not require
+another daemon to run (like sysvinit does with the shell scripts
+below /etc/{rc.d,init.d}), solves this problem.
+
+So in short, running services in a chrooted environment became
+harder with systemd.

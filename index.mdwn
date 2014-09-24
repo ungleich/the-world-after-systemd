@@ -1,0 +1,39 @@
+[[!meta title="The world after systemd"]]
+
+Welcome to a world after 
+[systemd](http://freedesktop.org/wiki/Software/systemd/). 
+After systemd?
+
+## Why after systemd?
+
+We think that even though many distros have adopted systemd, 
+the general design or motivation of the project is not good
+and will lead to more problems than it solves.
+
+We anticipate that systemd is currently in fashion, however many of
+us have seen software rising and falling, especially if it was 
+ill designed (sendmail anyone?).
+
+In that sense we are planning for the time when distros and users
+are beginning to **migrate away from systemd**.
+
+## What this site is about
+
+We are beginning to write down our concerns about systemd,
+what are the good and bad things it brings and how to move
+on.
+
+We focus on being productive for the next generation of people using
+Linux and other Unices (yes, they exist and yes, they are important, too!).
+
+## What is this site not about
+
+It is not a place for ranting. 
+If you want to blame/rant, please look for another site.
+
+## I want to contribute!
+
+That's great. You can find us on 
+[#cstar on Freenode](irc://irc.freenode.net/#cstar).
+
+If you want to change this site, simply open a pull request on github.

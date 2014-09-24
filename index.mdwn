@@ -24,5 +24,6 @@ update this website.
 
 [[!inline pages="pros-and-cons-unifying-linux" raw=yes]]
 
-[[!inline pages="resources" raw=yes]]
+
 [[!inline pages="contribute" raw=yes]]
+[[!inline pages="resources" raw=yes]]

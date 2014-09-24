@@ -1,4 +1,5 @@
 [[!meta title="The world after systemd"]]
+[[!toc  levels=2]]
 
 Welcome to a world after 
 [systemd](http://freedesktop.org/wiki/Software/systemd/). 

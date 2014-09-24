@@ -31,7 +31,7 @@ Linux and other Unices (yes, they exist and yes, they are important, too!).
 It is not a place for ranting. 
 If you want to blame/rant, please look for another site.
 
-[[!inline resources]]
+[[!inline pages="resources"]]
 
 
 ## I want to contribute!

@@ -11,7 +11,8 @@ why the current implementation of systemd is not a good idea.
 Use your favorite chat/publish/mention tool to do so and 
 include us. We are reachable on IRC (see below), via
 mail **theworldaftersystemd --at-- ungleich.ch** or
-Twitter **@ungleich**.
+Twitter [@ungleich](https://twitter.com/ungleich) 
+and [@NicoSchottelius](https://twitter.com/NicoSchottelius).
 
 ### Discuss with us
 

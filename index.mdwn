@@ -31,6 +31,12 @@ Linux and other Unices (yes, they exist and yes, they are important, too!).
 It is not a place for ranting. 
 If you want to blame/rant, please look for another site.
 
+## Links, yet unsorted
+
+* [Boycott Systemd](http://boycottsystemd.org/) -- Collection of
+  arguments against systemd, maybe ranty.
+* [uselessd, a fork which reduces systemd to an init system again](https://bitbucket.org/bcsd/uselessd/src)
+  * [German article at Pro-Linux about uselessd](http://www.pro-linux.de/news/1/21537/uselessd-erste-abspaltung-von-systemd.html)
 
 ## I want to contribute!
 

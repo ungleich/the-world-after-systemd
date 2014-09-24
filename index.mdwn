@@ -42,3 +42,14 @@ If you want to change this site, simply
 
 This site uses markdown as interpreted by
 [ikiwiki](http://ikiwiki.info/).
+
+
+
+## URLs to sort
+
+* http://freenode.net/faq.shtml#nicksetup
+* https://bugs.freedesktop.org/show_bug.cgi?id=64116
+* http://boycottsystemd.org/
+* http://www.pro-linux.de/news/1/21537/uselessd-erste-abspaltung-von-systemd.html
+* http://users.unixforge.de/~tglaser/debs/debidx.htm
+* http://the-world-after-systemd.ungleich.ch/

@@ -4,11 +4,11 @@ Welcome to a world after
 [systemd](http://freedesktop.org/wiki/Software/systemd/). 
 After systemd?
 
-## Why after systemd?
+[[!inline pages="why-after" raw=yes]]
+[[!inline pages="this-site" raw=yes]]
 
-We think that even though many distros have adopted systemd, 
-the general design or motivation of the project is not good
-and will lead to more problems than it solves.
+## Problems to solve
+[[!inline pages="problems-to-solve-linux-only" raw=yes]]
 
 We anticipate that systemd is currently in fashion, however many of
 us have seen software rising and falling, especially if it was 
@@ -44,25 +44,6 @@ This site uses markdown as interpreted by
 [ikiwiki](http://ikiwiki.info/).
 
 
-
-## URLs to sort
-
-* http://freenode.net/faq.shtml#nicksetup
-* https://bugs.freedesktop.org/show_bug.cgi?id=64116
-* http://boycottsystemd.org/
-* http://www.pro-linux.de/news/1/21537/uselessd-erste-abspaltung-von-systemd.html
-* http://users.unixforge.de/~tglaser/debs/debidx.htm
-* http://the-world-after-systemd.ungleich.ch/
-* http://www.phoronix.com/scan.php?page=news_item&px=MTYwMDQ
-* http://www.phoronix.com/scan.php?page=news_item&px=MTQ5NzQ
-
-## Practical steps
-
-* Gather information
-* Summarise
-* Write a clear statement of the problems and publish that too
-
-Iterate:
-
-* Consider solutions and work towards them
-* Contact other concerned parties informing them of these efforts, finding out their efforts
+[[!inline pages="pros-and-cons" raw=yes]]
+[[!inline pages="resources" raw=yes]]
+[[!inline pages="contribute" raw=yes]]

@@ -1,0 +1,12 @@
+## Why after systemd?
+
+We think that even though many distros have adopted systemd,
+the general design or motivation of the project is not good
+and will lead to more problems than it solves.
+
+We anticipate that systemd is currently in fashion, however many of
+us have seen software rising and falling, especially if it was
+ill designed (sendmail anyone?).
+
+In that sense we are planning for the time when distros and users
+are beginning to **migrate away from systemd**.

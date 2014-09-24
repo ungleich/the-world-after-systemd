@@ -289,7 +289,7 @@ use IkiWiki::Setup::Standard {
    #gitorigin_branch => 'origin',
    #gitmaster_branch => 'master',
 
-   git_wrapper => '/home/group/ungleich/git/www/hooks/post-update',
+   git_wrapper => '/home/services/git/netzseiten/the-world-after-systemd/hooks/post-update',
    git_wrappermode => '06755',
    gitorigin_branch => 'origin',
    gitmaster_branch => 'master',

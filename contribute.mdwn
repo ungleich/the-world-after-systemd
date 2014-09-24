@@ -1,7 +1,23 @@
 ## I want to contribute!
 
-That's great. You can find us on 
-[#cstar on Freenode](irc://irc.freenode.net/#cstar).
+That's great! There are various possibilities to help:
+
+### Talk about us
+
+Mention **#theworldaftersystemd** on Twitter, 
+talk about our movement on IRC, help others to understand 
+why the current implementation of systemd is not a good idea.
+
+Use your favorite chat/publish/mention tool to do so and 
+include us. We are reachable on IRC (see below), via
+mail **theworldaftersystemd --at-- ungleich.ch** or
+Twitter **@ungleich**.
+
+### Discuss with us
+
+You can find us on [#cstar on Freenode](irc://irc.freenode.net/#cstar).
+
+### Change this website
 
 If you want to change this site, simply
 [clone the repositiry on github](https://github.com/ungleich/the-world-after-systemd) and open a pull request.

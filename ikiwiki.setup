@@ -19,7 +19,7 @@ use IkiWiki::Setup::Standard {
 	#srcdir => './',
 	# where to build the wiki
 	#destdir => '../wwwout',
-	srcdir => '/home/user/nico/netzseiten/the-world-after-systemd-ikiwiki',
+	srcdir => '/home/user/nico/netzseiten/the-world-after-systemd',
 	# where to build the wiki
 	destdir => '/home/services/www/nico/the-world-after-systemd.ungleich.ch/www',
 	# base url to the wiki

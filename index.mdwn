@@ -36,4 +36,5 @@ If you want to blame/rant, please look for another site.
 That's great. You can find us on 
 [#cstar on Freenode](irc://irc.freenode.net/#cstar).
 
-If you want to change this site, simply open a pull request on github.
+If you want to change this site, simply 
+[clone the repositiry on github](https://github.com/ungleich/the-world-after-systemd) and open a pull request.

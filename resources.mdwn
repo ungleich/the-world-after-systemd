@@ -5,3 +5,7 @@
    * [German article at Pro-Linux about uselessd](http://www.pro-linux.de/news/1/21537/uselessd-erste-abspaltung-von-systemd.html)
  * [Boycott Systemd](http://boycottsystemd.org/) -- Collection of
    arguments against systemd, maybe ranty.
+ * [Debian package tools for avoiding systemd](http://users.unixforge.de/~tglaser/debs/debidx.htm)
+ * [Phoronix on Debian and systemd](http://www.phoronix.com/scan.php?page=news_item&px=MTYwMDQ)
+ * [Phoronix on Debian and systemd](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5NzQ)
+

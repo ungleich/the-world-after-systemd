@@ -9,4 +9,6 @@
  * [Debian package tools for avoiding systemd](http://users.unixforge.de/~tglaser/debs/debidx.htm)
  * [Phoronix on Debian and systemd](http://www.phoronix.com/scan.php?page=news_item&px=MTYwMDQ)
  * [Phoronix on Debian and systemd](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5NzQ)
+ * [Debian Fork](http://debianfork.org/)
+ * [Debian's General Resolution about Init System Coupling](https://www.debian.org/vote/2014/vote_003)
  * [Systemd fun](http://www.muylinux.com/wp-content/uploads/2014/08/funny-systemd.gif)

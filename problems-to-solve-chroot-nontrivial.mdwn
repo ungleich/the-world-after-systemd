@@ -9,5 +9,7 @@ Using init scripts or a different type of cli that does not require
 another daemon to run (like sysvinit does with the shell scripts
 below /etc/{rc.d,init.d}), solves this problem.
 
+There is a [detailled description of the problem at 0pointer.de](http://0pointer.de/blog/projects/changing-roots.html).
+
 So in short, running services in a chrooted environment became
 harder with systemd.

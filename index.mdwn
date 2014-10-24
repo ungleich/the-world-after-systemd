@@ -30,6 +30,7 @@ Currently we are brainstorming in various groups about what are good ways
 to keep or regain freedom of chosing to leave with or without systemd.
 
 [[!inline pages="brainstorm-os-change" raw=yes]]
+[[!inline pages="brainstorm-os-fork" raw=yes]]
 
 
 [[!inline pages="contribute" raw=yes]]

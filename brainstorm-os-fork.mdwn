@@ -1,0 +1,9 @@
+### The radical move #2: Fork your OS
+
+If you want to stick with your OS, but don't like to be forced
+to use systemd, but the OS maintainers decided to go or stay with
+systemd, a radical, but maybe problem solving move may be to fork
+your OS.
+
+This idea has been spoken out in form of a
+[Debian Fork](http://debianfork.org/) so far.

@@ -1,0 +1,9 @@
+### Why do some people like to use systemd?
+
+To be honest, there are not only people who dislike systemd.
+So for some reason, people were inspired to switch and see
+using systemd as an advantage.
+
+So in case it becomes clear, what people aspire, there is a chance
+to rebuild those components of systemd in a modular, Unix way
+and to remove or stay without systemd.

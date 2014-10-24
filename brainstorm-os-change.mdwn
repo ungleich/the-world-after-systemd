@@ -1,0 +1,10 @@
+### The radical move #1: Change your OS
+
+When you read reactions of people who are unhappy about
+systemd, you will find one solution to the problem very often:
+To change the OS to something that is not dependent or tightly
+coupled to systemd.
+
+Currently this could mean switching to a BSD based OS
+or Gentoo (list of Linux distros staying without Systemd tightly
+coupled should be added here).

@@ -7,3 +7,7 @@ using systemd as an advantage.
 So in case it becomes clear, what people aspire, there is a chance
 to rebuild those components of systemd in a modular, Unix way
 and to remove or stay without systemd.
+
+Maybe it is about
+
+* [having interfaces](https://lists.debian.org/debian-user/2014/10/msg01409.html)

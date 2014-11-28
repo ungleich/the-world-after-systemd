@@ -19,7 +19,7 @@ use IkiWiki::Setup::Standard {
 	#srcdir => './',
 	# where to build the wiki
 	#destdir => '../wwwout',
-	srcdir => '/home/user/nico/netzseiten/the-world-after-systemd',
+	srcdir => '/home/nico/the-world-after-systemd',
 	# where to build the wiki
 	destdir => '/home/services/www/nico/the-world-after-systemd.ungleich.ch/www',
 	# base url to the wiki
@@ -289,7 +289,7 @@ use IkiWiki::Setup::Standard {
    #gitorigin_branch => 'origin',
    #gitmaster_branch => 'master',
 
-   git_wrapper => '/home/services/git/netzseiten/the-world-after-systemd/hooks/post-update',
+   git_wrapper => '/home/services/git/the-world-after-systemd/hooks/post-update',
    git_wrappermode => '06755',
    gitorigin_branch => 'origin',
    gitmaster_branch => 'master',

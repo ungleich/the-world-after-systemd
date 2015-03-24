@@ -5,6 +5,8 @@ systemd, you will find one solution to the problem very often:
 To change the OS to something that is not dependent or tightly
 coupled to systemd.
 
-Currently this could mean switching to a BSD based OS
-or Gentoo (list of Linux distros staying without Systemd tightly
-coupled should be added here).
+Currently this could mean switching to a BSD based OS,
+Gentoo, Slackware, or some other Linux distribution
+without Systemd (or at least a tightly-coupled Systemd)
+(list of Linux distros meeting this requirement should
+be added here).

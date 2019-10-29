@@ -1,8 +1,8 @@
 [[!meta title="The world after systemd"]]
 [[!toc  levels=2]]
 
-Welcome to a world after 
-[systemd](http://freedesktop.org/wiki/Software/systemd/). 
+Welcome to a world after
+[systemd](http://freedesktop.org/wiki/Software/systemd/).
 After systemd?
 
 [[!inline pages="why-after" raw=yes]]
@@ -27,7 +27,7 @@ update this website.
 ## Brainstorming
 
 Currently we are brainstorming in various groups about what are good ways
-to keep or regain freedom of chosing to live with or without systemd.
+to keep or regain freedom of choosing to live with or without systemd.
 
 [[!inline pages="brainstorm-os-change" raw=yes]]
 [[!inline pages="brainstorm-os-fork" raw=yes]]
